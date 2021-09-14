@@ -38,13 +38,13 @@ class Wizard:
     def damage(self,damage):
         if not (self.currentSpell=="shield"):
             self.health -= damage
-        else:
-            self.shields-=1
+        
+            
     
     # decrement the power of the player by the energy value of the spell or use a shield
     def attack(self):
         if self.currentSpell=="shield":
-            pass
+            self.shields-=1
         else:
             self.energy -= self.spells[self.currentSpell]
     
