@@ -1,0 +1,1 @@
+add spell to the spells of the player

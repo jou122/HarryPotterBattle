@@ -1,0 +1,20 @@
+<Players
+><
+Light_Wizard 
+Health="100" 
+Energy="500" 
+No of shields="3">Harry Potter</
+Light_Wizard><
+Dark_Wizard
+ 
+Health="100" 
+Energy="500" 
+No of shields="3">Lord Voldemort</
+Dark_Wizard
+></Players
+>
+
+
+<Rounds
+><Round1 State="invalid">not valid input</Round1><Round1 State="invalid">not valid input</Round1><Round1 State="invalid">not valid input</Round1><Round1 State="invalid">not valid input</Round1><Round1 State="invalid">spell not found in Harry's speels</Round1><Round1 State="invalid">spell not found in Harry's speels</Round1><Round1 /><Round1 /><Round2 /><Round2 /><Round3 Num="3" state="Last">Harry Is The Winner</Round3><Round3 Num="3" state="Last">Harry Is The Winner</Round3></Rounds
+>
